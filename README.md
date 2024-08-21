@@ -1,12 +1,15 @@
+<h4>HEY THERE!!! I'M LORAINE</h4>
 
- 👀 I’m interested in game development. 
+<p> 👀 I’m interested in game development. </p>
  
- 🌱 I’m currently learning game development
+
+<p> 🌱 I’m currently learning game development
  with several game engines such as unity godot
- and others.
+ and others. </p>
  
- 📫 How to reach me:
- Facebook
+
+ <p> 📫 How to reach me:
+ Facebook </p>
  
 
  ⚡ Fun fact: love cake
